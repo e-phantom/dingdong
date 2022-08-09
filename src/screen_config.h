@@ -1,0 +1,8 @@
+
+#define DISPLAY_WIDTH 320
+#define DISPLAY_HEIGHT 240
+
+#define COORDINATES 2
+#define STEP 5
+
+
